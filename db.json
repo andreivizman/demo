@@ -1,7 +1,7 @@
 {
   "user": [
-    { "id": 1, "Username": "Andrei", "Password": "n-am chef" },
-    { "id": 2, "Username": "Dan", "Password": "ataete" },
-    { "id": 3, "Username": "Oana", "Password": "soarta" }
+    { "id": "1", "Username": "Andrei", "Password": "n-am chef" },
+    { "id": "2", "Username": "Dan", "Password": "ataete" },
+    { "id": "3", "Username": "Oana", "Password": "soarta" }
   ]
 }
